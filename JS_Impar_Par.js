@@ -7,3 +7,4 @@ if(n%2 == 0){
 }else{
 	alert("Impar");
 }
+alert(total);
