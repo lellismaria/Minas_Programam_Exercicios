@@ -5,6 +5,7 @@
 1. [Ímpar ou Par](https://github.com/lellismaria/Minas_Programam_Exercicios/blob/8416542c7fd4ce5914ed527768d304cec7b5ca34/JS_Impar_Par.js)
 2. [Calcular Lucro](https://github.com/lellismaria/Minas_Programam_Exercicios/blob/main/JS_Lucro.js)
 3. [Classificação para natação](https://github.com/lellismaria/Minas_Programam_Exercicios/blob/main/JS_Classificacao_Natacao.js)
+4. [Velocidade Média](https://github.com/lellismaria/Minas_Programam_Exercicios/blob/main/JS_Velocidade_Media.js)
 
 
 <h2 id="technologies"></h2>
