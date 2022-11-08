@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://programador.onebitcode.com/images/share-fb.png](https://minasprogramam.com/wp-content/uploads/2019/03/minasprogramam_logo-1000.png)"></p> 
+<p align="center"><img src="https://minasprogramam.com/wp-content/uploads/2019/03/minasprogramam_logo-1000.png"></p> 
 <h1 align="center">Exercícios - MinasProgramam<br></h1></p>
 
 #### Módulos estudados ao decorrer do curso:
